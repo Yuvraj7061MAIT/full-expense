@@ -5,7 +5,7 @@ Here’s a detailed **README.md** you can use for your GitHub repository:
 ```markdown
 # 💸 Smart Expense Tracker
 
-A modern full-stack Expense Tracking web app with **Smart Budgeting**, **Data Insights**, and **AI-powered Recommendations**. Built using **Next.js**, **MongoDB**, **PostgreSQL + Drizzle ORM**, **Flask (ML API)**, and **Clerk Authentication**.
+A modern full-stack Expense Tracking web app with **Smart Budgeting**, **Data Insights**. Built using **Next.js**, **MongoDB**, **PostgreSQL + Drizzle ORM**, **Flask**, and **Clerk Authentication**.
 
 ---
 
@@ -29,7 +29,7 @@ A modern full-stack Expense Tracking web app with **Smart Budgeting**, **Data In
 
 ## 🔧 Tech Stack
 
-| Frontend       | Backend        | Databases         | AI & ML        | Auth    |
+| Frontend       | Backend        | Databases         | Smart Tips     | Auth    |
 |----------------|----------------|-------------------|----------------|---------|
 | Next.js 15     | Node.js        | MongoDB (Mongoose)| Python (Flask) | Clerk   |
 | Tailwind CSS   | API Routes     | PostgreSQL (Neon) | Pandas, Sklearn|         |
@@ -186,7 +186,7 @@ This project is licensed under the MIT License.
 ## ✨ Author
 
 **Yuvraj Singh**
-[Portfolio](https://yuvrajsingh-ml.netlify.app) | [GitHub](https://github.com/Yuvraj7061MAIT) | [LinkedIn](https://linkedin.com/in/yuvrajsingh7061)
+[Portfolio](https://portfolio-yuvraj-yuvraj7061maits-projects.vercel.app/) | [GitHub](https://github.com/Yuvraj7061MAIT) | [LinkedIn](https://www.linkedin.com/in/yuvraj-singh-ml/)
 
 ---
 
