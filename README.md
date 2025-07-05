@@ -1,8 +1,3 @@
-Here’s a detailed **README.md** you can use for your GitHub repository:
-
----
-
-```markdown
 # 💸 Smart Expense Tracker
 
 A modern full-stack Expense Tracking web app with **Smart Budgeting**, **Data Insights**. Built using **Next.js**, **MongoDB**, **PostgreSQL + Drizzle ORM**, **Flask**, and **Clerk Authentication**.
