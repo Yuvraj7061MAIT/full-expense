@@ -5,7 +5,7 @@ Here’s a detailed **README.md** you can use for your GitHub repository:
 ```markdown
 # 💸 Smart Expense Tracker
 
-A modern full-stack Expense Tracking web app with **Smart Budgeting**, **Data Insights**, and **AI-powered Recommendations**. Built using **Next.js**, **MongoDB**, **PostgreSQL + Drizzle ORM**, **Flask (ML API)**, and **Clerk Authentication**.
+A modern full-stack Expense Tracking web app with **Smart Budgeting**, **Data Insights**. Built using **Next.js**, **MongoDB**, **PostgreSQL + Drizzle ORM**, **Flask**, and **Clerk Authentication**.
 
 ---
 
@@ -21,7 +21,7 @@ A modern full-stack Expense Tracking web app with **Smart Budgeting**, **Data In
 - 📊 Dynamic dashboard with charts and category breakdown
 - 💰 Budget setting per category/month
 - 🧾 Add, view, and filter expenses
-- 🧠 Flask ML API for smart savings tips & predicted spending
+- 🧠 Flask API for smart savings tips
 - 🧮 Monthly reports generation stored in PostgreSQL (NeonDB)
 - 📈 Separate report page for monthly summaries
 
@@ -29,7 +29,7 @@ A modern full-stack Expense Tracking web app with **Smart Budgeting**, **Data In
 
 ## 🔧 Tech Stack
 
-| Frontend       | Backend        | Databases         | AI & ML        | Auth    |
+| Frontend       | Backend        | Databases         |                | Auth    |
 |----------------|----------------|-------------------|----------------|---------|
 | Next.js 15     | Node.js        | MongoDB (Mongoose)| Python (Flask) | Clerk   |
 | Tailwind CSS   | API Routes     | PostgreSQL (Neon) | Pandas, Sklearn|         |
@@ -81,7 +81,7 @@ NEXT_PUBLIC_CLERK_FRONTEND_API=...
 DATABASE_URL=your_neon_postgres_url
 ```
 
-### 4️⃣ Run Flask ML API (separate terminal)
+### 4️⃣ Run Flask (separate terminal)
 
 ```bash
 cd smart-flask-api
