@@ -11,7 +11,16 @@ A modern full-stack Expense Tracking web app with **Smart Budgeting**, **Data In
 
 ## 📸 Preview
 
-![Dashboard Preview](./public/dashboard-preview.png)
+![dashboard](https://github.com/user-attachments/assets/2d90dfc0-917d-4509-996b-8791f17f7d26)
+
+![image](https://github.com/user-attachments/assets/ba7cb0fe-1d1d-4ff4-aaf6-8c2dd234b9fa)
+
+![image](https://github.com/user-attachments/assets/6c1b2b6a-9e25-4ea6-a10f-0c34fbba02fc)
+
+![image](https://github.com/user-attachments/assets/0fe31bc5-fc33-4e82-a09c-f0ca1df1f744)
+
+![image](https://github.com/user-attachments/assets/8a2a6763-43c5-496b-b664-3dc2791a62b0)
+
 
 ---
 
@@ -157,13 +166,6 @@ Data is inserted by `/api/reports/generate` endpoint.
 * Clerk authentication in server actions
 * Advanced charting and filtering in dashboard
 
----
-
-## 📸 Screenshots
-
-| Dashboard                   | Smart Tips             | Reports                   |
-| --------------------------- | ---------------------- | ------------------------- |
-| ![](./public/dashboard.png) | ![](./public/tips.png) | ![](./public/reports.png) |
 
 ---
 
