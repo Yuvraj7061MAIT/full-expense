@@ -37,9 +37,9 @@ A modern full-stack Expense Tracking web app with **Smart Budgeting**, **Data In
 
 | Frontend       | Backend        | Databases         |                | Auth    |
 |----------------|----------------|-------------------|----------------|---------|
-| Next.js 15     | Node.js        | MongoDB (Mongoose)| Python (Flask) | Clerk   |
+| Next.js 15     | Next.js        | MongoDB (Mongoose)| Python (Flask) | Clerk   |
 | Tailwind CSS   | API Routes     | PostgreSQL (Neon) | Pandas, Sklearn|         |
-| React Charts   | Drizzle ORM    | Drizzle ORM       |                |         |
+| React Charts   |                | Drizzle ORM       |                |         |
 
 ---
 
