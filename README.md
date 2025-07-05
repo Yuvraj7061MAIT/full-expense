@@ -188,13 +188,3 @@ This project is licensed under the MIT License.
 **Yuvraj Singh**
 [Portfolio](https://portfolio-yuvraj-yuvraj7061maits-projects.vercel.app/) | [GitHub](https://github.com/Yuvraj7061MAIT) | [LinkedIn](https://www.linkedin.com/in/yuvraj-singh-ml/)
 
----
-
-> *“Track smart. Spend smart.”*
-
-```
-
----
-
-Let me know if you'd like a shorter version, or want this in PDF or DOCX too.
-```
