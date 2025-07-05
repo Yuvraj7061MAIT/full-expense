@@ -141,7 +141,7 @@ App will be available at `http://localhost:3000`
 
 ---
 
-## 🧠 Smart Tips (ML Flask API)
+## 🧠 Smart Tips 
 
 * Receives expense data
 * Generates:
@@ -163,34 +163,6 @@ overBudgetCategories: json
 ```
 
 Data is inserted by `/api/reports/generate` endpoint.
-
----
-
-## 📚 Learnings and Highlights
-
-* Real-world integration of **MongoDB + PostgreSQL**
-* Usage of **Drizzle ORM** for schema-safe Postgres
-* Hybrid data flow: Mongo for transactional, Postgres for analytics
-* Integration of **ML recommendations into UI**
-* Clerk authentication in server actions
-* Advanced charting and filtering in dashboard
-
-
----
-
-## 🙌 Acknowledgements
-
-* Clerk for free developer-friendly auth
-* NeonDB for hosted Postgres
-* Flask + Sklearn for machine learning logic
-* Drizzle ORM for typed Postgres interactions
-* MongoDB Atlas for expense/budget data
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ---
 
