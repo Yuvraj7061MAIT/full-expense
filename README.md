@@ -186,7 +186,7 @@ This project is licensed under the MIT License.
 ## ✨ Author
 
 **Yuvraj Singh**
-[Portfolio](https://yuvrajsingh-ml.netlify.app) | [GitHub](https://github.com/Yuvraj7061MAIT) | [LinkedIn](https://linkedin.com/in/yuvrajsingh7061)
+[Portfolio](https://portfolio-yuvraj-yuvraj7061maits-projects.vercel.app/) | [GitHub](https://github.com/Yuvraj7061MAIT) | [LinkedIn](https://www.linkedin.com/in/yuvraj-singh-ml/)
 
 ---
 
