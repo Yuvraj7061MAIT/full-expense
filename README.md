@@ -9,6 +9,8 @@ A modern full-stack Expense Tracking web app with **Smart Budgeting**, **Data In
 ![dashboard](https://github.com/user-attachments/assets/2d90dfc0-917d-4509-996b-8791f17f7d26)
 
 ![image](https://github.com/user-attachments/assets/ba7cb0fe-1d1d-4ff4-aaf6-8c2dd234b9fa)
+![image](https://github.com/user-attachments/assets/a4cb0999-162f-4b97-ae84-602bf651497f)
+
 
 ![image](https://github.com/user-attachments/assets/6c1b2b6a-9e25-4ea6-a10f-0c34fbba02fc)
 
@@ -78,11 +80,23 @@ npm install
 Create a `.env` file with:
 
 ```env
-MONGODB_URI=your_mongo_connection_string
-CLERK_SECRET_KEY=your_clerk_key
-CLERK_PUBLISHABLE_KEY=your_clerk_key
-NEXT_PUBLIC_CLERK_FRONTEND_API=...
-DATABASE_URL=your_neon_postgres_url
+    NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+    CLERK_SECRET_KEY=
+
+
+    NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+    NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+    NEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_REDIRECT_URL=/
+    NEXT_PUBLIC_CLERK_SIGN_UP_FALLBACK_REDIRECT_URL=/
+
+
+    MONGODB_URI=
+
+
+
+    DATABASE_URL=
+
+
 ```
 
 ### 4️⃣ Run Flask (separate terminal)
