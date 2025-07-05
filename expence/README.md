@@ -11,7 +11,7 @@ A modern full-stack Expense Tracking web app with **Smart Budgeting**, **Data In
 
 ## 📸 Preview
 
-![Dashboard](./public/dashboard.png)
+![Dashboard](https://drive.google.com/uc?export=view&id=1LfnP_QPCNblW0AvukN8IDAYuBdwDsjeg)
 
 ---
 
